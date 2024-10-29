@@ -15,5 +15,4 @@
 # Allow .gitignore itself
 !.gitignore 
 
-
-agents_comms/*
+!agents_comms/
