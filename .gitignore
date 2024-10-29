@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Allow Python files
+!*.py
+
+# Allow requirements files
+!requirements*.txt
+
+# Allow README files
+!README.md
+!README.txt
+!README.rst
+
+# Allow .gitignore itself
+!.gitignore 
+
+
+agents_comms/*
